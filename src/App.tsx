@@ -56,7 +56,6 @@ function App() {
     }
   }, [])
 
-  console.log(wordToGuess);
   return (
     <div style={{
      maxWidth: '800px',
